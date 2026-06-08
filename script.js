@@ -15,6 +15,6 @@ function rockPaperScissor(userInput){
 
    const computerValue = Math.random()
 
-  if( userInput === "")
+  if( userInput === "scissor")
 
 }
